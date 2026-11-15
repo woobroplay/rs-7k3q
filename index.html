@@ -70,7 +70,7 @@ main{padding:20px 28px 60px;display:grid;grid-template-columns:repeat(auto-fill,
 .dates{display:flex;gap:6px;flex-wrap:wrap;padding:10px 28px 0;align-items:center}.dates b{font-size:13px;color:var(--sub);margin-right:4px}.dchip{border:1px solid var(--line);background:#fff;border-radius:8px;padding:6px 11px;font-size:13px;cursor:pointer;font-weight:600}.dchip.on{background:var(--teal);border-color:var(--teal);color:#fff}.dchip span{opacity:.65;font-weight:500;margin-left:3px}
 .dhead{grid-column:1/-1;font-size:16px;font-weight:800;margin:6px 0 -4px;color:var(--ink);border-bottom:2px solid var(--line);padding-bottom:6px}
 .stg{display:flex;gap:6px;flex-wrap:wrap}.stg button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-size:13px;cursor:pointer}.stg button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
-@media(max-width:800px){.board{grid-template-columns:1fr}}</style></head><body>
+@media(max-width:800px){.board{grid-template-columns:1fr}}.tag.mine{background:#efe6ff;color:#6b3fd6}</style></head><body>
 <header><div><h1>우브로 <span>레퍼런스</span> 스튜디오</h1><div class="upd" id="upd"></div></div></header>
 <div class="bar">
  <div class="tabs" id="tabs"></div><div class="sp"></div>
@@ -87,7 +87,7 @@ main{padding:20px 28px 60px;display:grid;grid-template-columns:repeat(auto-fill,
 <script src="refs_analysis.js" onerror="window.ANALYSIS=window.ANALYSIS||{}"></script>
 <script>
 const R=window.REFS||[];window.ANALYSIS=window.ANALYSIS||{};
-const SRC=['전체','국내 바이럴','해외 아이디어','공구 트렌드','떡상 조사','AI 유튜브','등불사연','찜','보드'];
+const SRC=['전체','국내 바이럴','해외 아이디어','공구 트렌드','떡상 조사','AI 유튜브','등불사연','보내준 레퍼런스','찜','보드'];
 let tab='전체',pf=new Set(),stars=new Set(JSON.parse(localStorage.getItem('refStars')||'[]'));
 let stage=JSON.parse(localStorage.getItem('refStage')||'{}');
 let dsel='전체';
@@ -104,7 +104,7 @@ const fmt=n=>n==null?'-':n>=1e8?(n/1e8).toFixed(1).replace('.0','')+'억':n>=1e4
 const today=new Date();const daysAgo=d=>d?Math.max(1,Math.round((today-new Date(d))/864e5)):null;
 const ago=d=>{const n=daysAgo(d);return n==null?'':n<=1?'오늘·어제':n<31?n+'일 전':Math.round(n/30)+'달 전'};
 const speed=r=>r.views&&r.posted?r.views/daysAgo(r.posted):0;
-const tcls={'국내 바이럴':'k','해외 아이디어':'o','공구 트렌드':'g','AI 유튜브':'ai','떡상 조사':'hot2','등불사연':'lamp'};
+const tcls={'국내 바이럴':'k','해외 아이디어':'o','공구 트렌드':'g','AI 유튜브':'ai','떡상 조사':'hot2','보내준 레퍼런스':'mine','등불사연':'lamp'};
 const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function first(r){return (r.title||r.caption||'').split('\n').find(l=>l.trim())||''}
 document.getElementById('upd').textContent='마지막 업데이트 '+new Date(window.REFS_META?.updated||Date.now()).toLocaleString('ko-KR',{month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'})+' · 레퍼런스 '+R.length+'개';
