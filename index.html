@@ -170,4 +170,5 @@ function closeM(){document.getElementById('modal').classList.remove('on')}
 document.getElementById('modal').onclick=e=>{if(e.target.id==='modal')closeM()};document.onkeydown=e=>{if(e.key==='Escape')closeM()};
 document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{pf.has(c.dataset.pf)?pf.delete(c.dataset.pf):pf.add(c.dataset.pf);c.classList.toggle('on');render()});
 document.getElementById('sort').onchange=render;document.getElementById('q').oninput=render;render();
+</script>
 </body></html>
