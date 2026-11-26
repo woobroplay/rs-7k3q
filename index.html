@@ -256,5 +256,5 @@ function closeM(){document.getElementById('modal').classList.remove('on')}
 document.getElementById('modal').onclick=e=>{if(e.target.id==='modal')closeM()};document.onkeydown=e=>{if(e.key==='Escape')closeM()};
 document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{pf.has(c.dataset.pf)?pf.delete(c.dataset.pf):pf.add(c.dataset.pf);c.classList.toggle('on');render()});
 document.getElementById('sort').onchange=render;document.getElementById('q').oninput=render;document.getElementById('sort').value='added';if(new URLSearchParams(location.search).get('sent')==='1'){tab='보내준 레퍼런스';dsel='전체';document.getElementById('sort').value='added';document.getElementById('q').value='';pf.clear()}render();
-</script><script src="dm_studio.js"></script><script src="studio_channels.js"></script><script src="studio_status.js"></script><script src="studio_refresh.js?v=20261126b"></script>
+</script><script src="dm_studio.js"></script><script src="studio_channels.js"></script><script src="studio_status.js"></script><script src="studio_refresh.js?v=20261126k"></script>
 </body></html>

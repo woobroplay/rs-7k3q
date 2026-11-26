@@ -576,7 +576,7 @@ window.GBOARDS={
         "date": "2026-11-16",
         "stage": "done",
         "note": "카테고리: 선물 고르기",
-        "img": "blog/lb_p1.png",
+        "img": "asset_blog_lb_p1.png",
         "url": "https://blog.naver.com/pmh352888/224478576224",
         "group": "lb",
         "kind": "글"
@@ -587,7 +587,7 @@ window.GBOARDS={
         "date": "2026-11-17",
         "stage": "done",
         "note": "카테고리: 선물 고르기",
-        "img": "blog/lb_p2.png",
+        "img": "asset_blog_lb_p2.png",
         "url": "https://blog.naver.com/pmh352888/224478577070",
         "group": "lb",
         "kind": "글"
@@ -598,7 +598,7 @@ window.GBOARDS={
         "date": "2026-11-18",
         "stage": "done",
         "note": "카테고리: 선물 고르기",
-        "img": "blog/lb_p3.png",
+        "img": "asset_blog_lb_p3.png",
         "url": "https://blog.naver.com/pmh352888/224478577700",
         "group": "lb",
         "kind": "글"
@@ -609,7 +609,7 @@ window.GBOARDS={
         "date": "2026-11-19",
         "stage": "done",
         "note": "카테고리: 옷·잠옷",
-        "img": "blog/lb_p4.png",
+        "img": "asset_blog_lb_p4.png",
         "url": "https://blog.naver.com/pmh352888/224478578078",
         "group": "lb",
         "kind": "글"
@@ -620,7 +620,7 @@ window.GBOARDS={
         "date": "2026-11-20",
         "stage": "done",
         "note": "카테고리: 0~2세",
-        "img": "blog/lb_p5.png",
+        "img": "asset_blog_lb_p5.png",
         "url": "https://blog.naver.com/pmh352888/224478578505",
         "group": "lb",
         "kind": "글"
@@ -631,7 +631,7 @@ window.GBOARDS={
         "date": "2026-11-21",
         "stage": "done",
         "note": "카테고리: 0~2세",
-        "img": "blog/lb_p6.png",
+        "img": "asset_blog_lb_p6.png",
         "url": "https://blog.naver.com/pmh352888/224478578901",
         "group": "lb",
         "kind": "글"
@@ -642,7 +642,7 @@ window.GBOARDS={
         "date": "2026-11-22",
         "stage": "done",
         "note": "카테고리: 어린이집·학교 준비물",
-        "img": "blog/lb_p7.png",
+        "img": "asset_blog_lb_p7.png",
         "url": "https://blog.naver.com/pmh352888/224478579352",
         "group": "lb",
         "kind": "글"
@@ -694,7 +694,7 @@ window.GBOARDS={
         "date": "2026-11-16",
         "stage": "done",
         "note": "정보글 (처음엔 링크 없이 발행)",
-        "img": "https://blogger.googleusercontent.com/b/R29vZ2xl/AVvXsEh_b64SyiqCatrt4KmSE3ii9W-KDYnaSACfLXX29GGfttujuhUaPH63LPEPKTQdS4plrL4pDz0XVi0zLnKNgp5nax5yg2Z3hV9_TxBnL85vF9Mk5R0X2hhay05WqoAmrDNnJuod6KrAv2qD9k45qlHE4Uxhsd8cEy_wOHoObQc5KIO3Is8i7Q8yekpC4giv/s400/toddler_christmas_gift_toys.png",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_b64SyiqCatrt4KmSE3ii9W-KDYnaSACfLXX29GGfttujuhUaPH63LPEPKTQdS4plrL4pDz0XVi0zLnKNgp5nax5yg2Z3hV9_TxBnL85vF9Mk5R0X2hhay05WqoAmrDNnJuod6KrAv2qD9k45qlHE4Uxhsd8cEy_wOHoObQc5KIO3Is8i7Q8yekpC4giv/s400/toddler_christmas_gift_toys.png",
         "url": "https://yuga-tem.blogspot.com/2026/11/toddler-christmas-gift-toys-by-age.html",
         "group": "gg",
         "kind": "글"
@@ -705,7 +705,7 @@ window.GBOARDS={
         "date": "2026-11-17",
         "stage": "done",
         "note": "정보글 (처음엔 링크 없이 발행)",
-        "img": "https://blogger.googleusercontent.com/b/R29vZ2xl/AVvXsEi4OzYsj6QXTRCK-d26Vr3J-PSZ_IfnonD82wCM4iT_0AShfEXL5ZdV9k49WZs3UhalFDWxFFBToej6eIVJT3AxTmGmBjQeRS9NlHevln3BE1lwnUoz_lQQ1J7c8w9611ZqMpfU8SaA2tNCaB3SXmhxVkno-AOCww5qGma5eh24qpWJ5qddhpjrNBVhdFK4/s400/baby_room_humidifier.png",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4OzYsj6QXTRCK-d26Vr3J-PSZ_IfnonD82wCM4iT_0AShfEXL5ZdV9k49WZs3UhalFDWxFFBToej6eIVJT3AxTmGmBjQeRS9NlHevln3BE1lwnUoz_lQQ1J7c8w9611ZqMpfU8SaA2tNCaB3SXmhxVkno-AOCww5qGma5eh24qpWJ5qddhpjrNBVhdFK4/s400/baby_room_humidifier.png",
         "url": "https://yuga-tem.blogspot.com/2026/11/baby-room-humidifier-heating-vs-evaporative.html",
         "group": "gg",
         "kind": "글"
@@ -716,7 +716,7 @@ window.GBOARDS={
         "date": "2026-11-20",
         "stage": "done",
         "note": "쿠팡 파트너스 링크 들어감",
-        "img": "https://blogger.googleusercontent.com/b/R29vZ2xl/AVvXsEj-tqHF_ll879D2IKUkgsZEygKpx-OAWQ4sPl-zNwhyphenhyphenDAGe2Vw1pcUCC6afqezG5qp46ohNutEG3v_jwWscjW3SsE3Pu3jTkqvuPXeswNWAizgxbtViqKZkyYr_mhr2UPQr_SEW3K1exLlOePG9v9Opy4ssIH9Ouekad6SiOgqOL6TYmrLcnRDTKSJ-4WAS/s400/baby-snowsuit-thumb.png",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-tqHF_ll879D2IKUkgsZEygKpx-OAWQ4sPl-zNwhyphenhyphenDAGe2Vw1pcUCC6afqezG5qp46ohNutEG3v_jwWscjW3SsE3Pu3jTkqvuPXeswNWAizgxbtViqKZkyYr_mhr2UPQr_SEW3K1exLlOePG9v9Opy4ssIH9Ouekad6SiOgqOL6TYmrLcnRDTKSJ-4WAS/s400/baby-snowsuit-thumb.png",
         "url": "https://yuga-tem.blogspot.com/2026/11/blog-post_19.html",
         "group": "gg",
         "kind": "글"
@@ -727,7 +727,7 @@ window.GBOARDS={
         "date": "2026-11-21",
         "stage": "done",
         "note": "쿠팡 파트너스 링크 들어감",
-        "img": "https://blogger.googleusercontent.com/b/R29vZ2xl/AVvXsEh8X5e9086qWArlKWpnEC0rM7r2JF7Wsn5ihU04r7K_grbDwqnQQO8qXCCZ7rPFYUC9NbrBFBJxk9O_eLATaMP1dgwuFtkgGGX-aDD-M9MzxiAUViKg0tNWzHo8-bIOxmPUhKFpvetKISYE4G9yovkUKZWU98fkHqvzEnHThSkbjTJl0prsSqacHTYPQwmG/s400/toddler-winter-boots-thumb.png",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8X5e9086qWArlKWpnEC0rM7r2JF7Wsn5ihU04r7K_grbDwqnQQO8qXCCZ7rPFYUC9NbrBFBJxk9O_eLATaMP1dgwuFtkgGGX-aDD-M9MzxiAUViKg0tNWzHo8-bIOxmPUhKFpvetKISYE4G9yovkUKZWU98fkHqvzEnHThSkbjTJl0prsSqacHTYPQwmG/s400/toddler-winter-boots-thumb.png",
         "url": "https://yuga-tem.blogspot.com/2026/11/toddler-winter-boots-waterproof-non-sli.html",
         "group": "gg",
         "kind": "글"
@@ -738,7 +738,7 @@ window.GBOARDS={
         "date": "2026-11-22",
         "stage": "done",
         "note": "쿠팡 파트너스 링크 들어감",
-        "img": "https://blogger.googleusercontent.com/b/R29vZ2xl/AVvXsEhbCpZNCf8TnTSaWsSoEnvoOMehIw_fJ1ULz4DDZSn1oeXa-e3221_p0PcZcrzueqP2hjgG1CprcZHt51_kCKIkIkRu8-caVYxl7KHfNWxfeUzaog_w5My54yXy9M1q0vxySzZdqumd8zENF_RXgW7cvho1_FvZl2dhWOcNTC8bsdJBodeVXltUnMdZFIk6/s400/baby-first-shoes-thumb.png",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbCpZNCf8TnTSaWsSoEnvoOMehIw_fJ1ULz4DDZSn1oeXa-e3221_p0PcZcrzueqP2hjgG1CprcZHt51_kCKIkIkRu8-caVYxl7KHfNWxfeUzaog_w5My54yXy9M1q0vxySzZdqumd8zENF_RXgW7cvho1_FvZl2dhWOcNTC8bsdJBodeVXltUnMdZFIk6/s400/baby-first-shoes-thumb.png",
         "url": "https://yuga-tem.blogspot.com/2026/11/blog-post_22.html",
         "group": "gg",
         "kind": "글"
@@ -749,7 +749,7 @@ window.GBOARDS={
         "date": "2026-11-23",
         "stage": "done",
         "note": "쿠팡 파트너스 링크 들어감",
-        "img": "https://blogger.googleusercontent.com/b/R29vZ2xl/AVvXsEhG-nkv-MpyG8_t3-CZ3Qz8OU9W9vcrO0WrsKDuHpX8GJyJCwleUGc7uBIb_eRvvgu37Wq79MJ0SnVE5Babmu40xctX29YONEGbKijKS5Y695vs_k2NbujXKp1gm8SA9__IeGSCRdB6duCpIOCwirGJLc2kTbVouJL5ELRS6xLhhQfIdoob6aUjn8IMpyHB/s400/toddler-gloves-thumb.png",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-nkv-MpyG8_t3-CZ3Qz8OU9W9vcrO0WrsKDuHpX8GJyJCwleUGc7uBIb_eRvvgu37Wq79MJ0SnVE5Babmu40xctX29YONEGbKijKS5Y695vs_k2NbujXKp1gm8SA9__IeGSCRdB6duCpIOCwirGJLc2kTbVouJL5ELRS6xLhhQfIdoob6aUjn8IMpyHB/s400/toddler-gloves-thumb.png",
         "url": "https://yuga-tem.blogspot.com/2026/11/blog-post_249.html",
         "group": "gg",
         "kind": "글"
